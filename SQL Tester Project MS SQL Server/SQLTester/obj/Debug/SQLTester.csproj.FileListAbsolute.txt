@@ -1,0 +1,20 @@
+C:\Users\Lanec\Desktop\C# Udemy wDatabase\SQL Tester Project\SQLTester\obj\Debug\SQLTester.csprojAssemblyReference.cache
+C:\Users\Lanec\Desktop\C# Udemy wDatabase\SQL Tester Project\SQLTester\obj\Debug\SQLTester.frmTester.resources
+C:\Users\Lanec\Desktop\C# Udemy wDatabase\SQL Tester Project\SQLTester\obj\Debug\SQLTester.Properties.Resources.resources
+C:\Users\Lanec\Desktop\C# Udemy wDatabase\SQL Tester Project\SQLTester\obj\Debug\SQLTester.csproj.GenerateResource.cache
+C:\Users\Lanec\Desktop\C# Udemy wDatabase\SQL Tester Project\SQLTester\obj\Debug\SQLTester.csproj.CoreCompileInputs.cache
+C:\Users\Lanec\Desktop\C# Udemy wDatabase\SQL Tester Project\SQLTester\bin\Debug\SQLTester.exe.config
+C:\Users\Lanec\Desktop\C# Udemy wDatabase\SQL Tester Project\SQLTester\bin\Debug\SQLTester.exe
+C:\Users\Lanec\Desktop\C# Udemy wDatabase\SQL Tester Project\SQLTester\bin\Debug\SQLTester.pdb
+C:\Users\Lanec\Desktop\C# Udemy wDatabase\SQL Tester Project\SQLTester\obj\Debug\SQLTester.exe
+C:\Users\Lanec\Desktop\C# Udemy wDatabase\SQL Tester Project\SQLTester\obj\Debug\SQLTester.pdb
+C:\Users\Lanec\Desktop\C# Udemy wDatabase\SQL Tester Project MySQL\SQLTester\bin\Debug\SQLTester.exe.config
+C:\Users\Lanec\Desktop\C# Udemy wDatabase\SQL Tester Project MySQL\SQLTester\bin\Debug\SQLTester.exe
+C:\Users\Lanec\Desktop\C# Udemy wDatabase\SQL Tester Project MySQL\SQLTester\bin\Debug\SQLTester.pdb
+C:\Users\Lanec\Desktop\C# Udemy wDatabase\SQL Tester Project MySQL\SQLTester\obj\Debug\SQLTester.csprojAssemblyReference.cache
+C:\Users\Lanec\Desktop\C# Udemy wDatabase\SQL Tester Project MySQL\SQLTester\obj\Debug\SQLTester.frmTester.resources
+C:\Users\Lanec\Desktop\C# Udemy wDatabase\SQL Tester Project MySQL\SQLTester\obj\Debug\SQLTester.Properties.Resources.resources
+C:\Users\Lanec\Desktop\C# Udemy wDatabase\SQL Tester Project MySQL\SQLTester\obj\Debug\SQLTester.csproj.GenerateResource.cache
+C:\Users\Lanec\Desktop\C# Udemy wDatabase\SQL Tester Project MySQL\SQLTester\obj\Debug\SQLTester.csproj.CoreCompileInputs.cache
+C:\Users\Lanec\Desktop\C# Udemy wDatabase\SQL Tester Project MySQL\SQLTester\obj\Debug\SQLTester.exe
+C:\Users\Lanec\Desktop\C# Udemy wDatabase\SQL Tester Project MySQL\SQLTester\obj\Debug\SQLTester.pdb
